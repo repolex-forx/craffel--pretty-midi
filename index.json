@@ -1,0 +1,11 @@
+{
+  "org": "craffel",
+  "repo": "pretty-midi",
+  "versions": [
+    {
+      "commit": "60f6bce899eb2b84957b806301d9a462aea53c99",
+      "tag": "",
+      "parsed_at": "2026-10-18T00:13:54.860473+00:00"
+    }
+  ]
+}
