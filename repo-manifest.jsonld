@@ -8,7 +8,8 @@
     {
       "@id": "https://repolex.ai/r/craffel/pretty-midi/commit/60f6bce899eb2b84957b806301d9a462aea53c99",
       "git:hexsha": "60f6bce899eb2b84957b806301d9a462aea53c99",
-      "repolex:parseStatus": "ast_complete"
+      "repolex:parseStatus": "parsed",
+      "repolex:parsedAt": "2026-10-18T00:13:54.853075+00:00"
     },
     {
       "@id": "https://repolex.ai/r/craffel/pretty-midi/commit/18bf99f21be59f4800b3384203f7f0652c638e17",
